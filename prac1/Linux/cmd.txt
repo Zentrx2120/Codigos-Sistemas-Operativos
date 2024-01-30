@@ -1,0 +1,15 @@
+ls: list directory contents
+chmod: change file mode bits
+vi: a programer text editor, vim (view)
+pwd: print name of current directory
+clear: Clear the terminal screen
+cd: entrar en una carpeta del directorio
+cat: concatenate files and print on the standard output
+grep, egrep, fgrep, rgrep: print lines that match patterns
+rm: remove files or directories
+ps: report a snapshot of the current processes
+cp: copy files and directories
+mv: move (rename) files
+mkdir: make directories
+rmdir: remove empty directories
+whoami: print effective userid
